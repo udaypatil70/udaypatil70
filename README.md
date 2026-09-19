@@ -102,22 +102,6 @@ const uday = {
 
 <br/>
 
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=udaypatil70&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/udaypatil70/udaypatil70/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</div>
-
-<br/>
-
 ## 🌐 Connect With Me
 
 <div align="center">
