@@ -87,21 +87,6 @@ const uday = {
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=udaypatil70&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Uday's GitHub Stats"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaypatil70&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=udaypatil70&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=udaypatil70&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity"/>
-
-</div>
-
-<br/>
-
 ## 🌐 Connect With Me
 
 <div align="center">
